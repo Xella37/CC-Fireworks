@@ -1,0 +1,1 @@
+local a={}a.shrink=function(b,c,d)if d>0.5 then return true end;local e=b.pineObject[7]for f=1,#e do local g=e[f]for h=1,9 do g[h]=g[h]*0.5^(c*20)end end end;return a

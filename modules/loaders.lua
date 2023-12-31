@@ -1,0 +1,1 @@
+local a={}a.fromNFP=function(b,c,d)local e=paintutils.loadImage(c)or{}local function f(g,h)return e[h]and e[h][g]end;for h,i in pairs(e)do for g,j in pairs(i)do if type(d)=="function"then if j>0 then d(g,h,j,f)end else local k=d[j]if type(k)=="function"then k(g,h,j,f)elseif k then b:add(k,g,0,h)end end end end end;return a
