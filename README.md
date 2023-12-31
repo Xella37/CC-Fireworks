@@ -11,3 +11,10 @@ Install with: `wget run https://pinestore.cc/d/50`
 
 **Note: if you're using an emulator, you might have to [install the Minecraft sounds](https://www.craftos-pc.cc/docs/periphemu) to hear them**
 
+## Media
+
+![2023-12-31_01 58 36](https://github.com/Xella37/CC-Fireworks/assets/36447113/c89301eb-39c8-4f07-90bb-90c1592777d4)
+![2023-12-31_02 00 55](https://github.com/Xella37/CC-Fireworks/assets/36447113/78836123-dbc8-4081-921d-b1246f4f7778)
+![2023-12-31_02 00 54](https://github.com/Xella37/CC-Fireworks/assets/36447113/37bf1a8f-d7d5-4301-8aad-59fe1fab25ef)
+![2023-12-31_02 00 56](https://github.com/Xella37/CC-Fireworks/assets/36447113/8ba7c226-1080-4174-bb98-bd81951829ed)
+![2023-12-31_02 01 54](https://github.com/Xella37/CC-Fireworks/assets/36447113/4c20a505-ca6a-404d-996e-7a4b31da284c)
